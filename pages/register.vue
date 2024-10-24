@@ -100,7 +100,7 @@
       </form>
 
       <p class="mt-10 text-center text-sm text-gray-500">
-        Already a Account?
+        Already a member?
         <NuxtLink
           to="/login"
           class="font-semibold leading-6 text-indigo-600 hover:text-indigo-500"
